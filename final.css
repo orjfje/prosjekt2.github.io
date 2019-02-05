@@ -1,0 +1,13 @@
+header > nav { display: flex; flex-direction: row; justify-content: space-around; align-items: flex-start; width: 100%;}
+body{ background-image: url("bilete/bck.jpeg");}
+main{max width: 970px; margin: auto; display: grid; grid-template-column: repeat(12, 1fr); grid-gap: 10px;}
+h2 {color: #ffffff; font-family: verdana;}
+div{ text-align: center; height: 200px; width: 100%;}
+h3{color: #ffffff; font-family: verdana;}
+iframe{border-style: solid; border-color: #ffffff;} 
+.kol6{ grid-column: span 6 ;}
+
+
+
+
+a:link{color: #ffffff; text-decoration:none; font-family: verdana; font-size: 25px;}
